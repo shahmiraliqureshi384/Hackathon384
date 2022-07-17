@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594056816111",
+    "project_id": "shahmir-c09b1",
+    "storage_bucket": "shahmir-c09b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594056816111:android:1f1c6deffe803cb000c21a",
+        "android_client_info": {
+          "package_name": "com.example.shahmirapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594056816111-67krnqgtnntlk1o4oklepml1h18inqfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8j21qfpHHWa8ZS0LULocKE48o7xxJ8E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594056816111-67krnqgtnntlk1o4oklepml1h18inqfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
